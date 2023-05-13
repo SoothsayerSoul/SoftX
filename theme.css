@@ -46,7 +46,7 @@
   --rs-dnd-color: #ff0000; /* Default: #f04747 */
   --rs-offline-color: #000000; /* Default: #636b75 */
   --rs-streaming-color: #7e57c1; /* Default: #643da7 */
-  --rs-invisible-color: #ff99b9; /* Default: #747f8d */
+  --rs-invisible-color: #ff3374; /* Default: #747f8d */
   --rs-phone-color: var(--rs-online-color); /* Color of the phone for mobile users | Default: var(--rs-online-color) */
   --rs-phone-visible: block; /* Visibility of the phone for mobile users | Default: block */
 }
