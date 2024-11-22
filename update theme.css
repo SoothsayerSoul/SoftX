@@ -18,7 +18,7 @@
   /*
    * SoftX variables
    */
-  --background-image: url("https://cdn.discordapp.com/attachments/621802427322073096/1309577396248121427/Vencord_BG4.png?ex=6742167e&is=6740c4fe&hm=2336c7e53bb5ddf4e853f657166ece6733bd7ef1138d09e3a65a3b08150e1f86&"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://cdn.discordapp.com/attachments/621802427322073096/1309578523312132106/Vencord_BG5.png?ex=6742178a&is=6740c60a&hm=49d34e3104ba7d4746e9e909f5270ac4eb5946bf505a1796c54e36d297840ef3&"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 255, 102, 0; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
